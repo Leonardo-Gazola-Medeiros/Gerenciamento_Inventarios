@@ -5,9 +5,9 @@ Descrição do Problema
 
 Uma empresa de manufatura está enfrentando dificuldades significativas no gerenciamento de seu inventário de produtos acabados. Os principais desafios identificados são:
 
-Rastreamento de Estoque: A empresa tem dificuldade em rastrear o estoque de seus produtos em tempo real, o que resulta em erros de contagem, falta de produtos em estoque quando necessário e excesso de produtos obsoletos.
+Rastreamento de Estoque: A empresa tem dificuldade em rastrear o estoque de seus produtos em tempo real, o que pode resultar em erros de contagem, falta de produtos em estoque quando necessário e excesso de produtos obsoletos.
 
-Gestão de Fornecedores: A empresa trabalha com vários fornecedores para adquirir matérias-primas e componentes. Gerenciar os relacionamentos e garantir entregas pontuais tem sido um desafio constante.
+Gestão de Fornecedores: A empresa trabalha com vários fornecedores para adquirir matérias-primas e componentes. E quer gerenciar os relacionamentos e garantir entregas pontuais.
 
 Informações em Tempo Real: A empresa não possui um sistema eficaz para fornecer informações em tempo real sobre a disponibilidade de produtos a seus departamentos internos, clientes e fornecedores. Isso leva a atrasos na tomada de decisões, pedidos inadequados e clientes insatisfeitos.
 
